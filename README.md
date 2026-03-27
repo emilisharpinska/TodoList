@@ -2,7 +2,7 @@ ToDo List
 
 A simple Todo List pet project built to practice UI design, navigation, and basic task management functionality.
 
-🚀 Features
+## 🚀 Features
 Main Screen (Task List)
 Displays all created tasks in one place
 Clean and simple layout for easy task tracking
@@ -15,7 +15,7 @@ Animated Add Button
 Eye-catching animation on the main screen
 Enhances user interaction and experience
 
-📱Screens Overview
+## 📱Screens Overview
 ➕Main Screen
 Shows the list of all tasks
 Central place to manage your todos
@@ -24,11 +24,11 @@ Includes animated "Add Task" button
 Allows users to create a new task
 Accessible via the animated button on the main screen
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: Swift 
 UI: Swift UI
 
-🎯 Purpose
+## 🎯 Purpose
 This project was created as a pet project to:
 Practice building multi-screen applications
 Improve UI/UX skills
