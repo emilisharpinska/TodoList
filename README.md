@@ -31,7 +31,7 @@ UI: Swift UI<br>
 
 ## 🎯 Purpose
 This project was created as a pet project to:
-Practice building multi-screen applications,
-Improve UI/UX skills,
-Experiment with animations,
-Understand basic state and navigation flow,
+practice building multi-screen applications,
+improve Swift/Swift UI skills,
+experiment with animations,
+understand basic state and navigation flow,
