@@ -3,7 +3,7 @@
 A simple Todo List pet project built to practice UI design, navigation, and basic task management functionality.
 
 ## 🚀 Features
-Main Screen (Task List)
+<details>Main Screen (Task List)
 Displays all created tasks in one place
 Clean and simple layout for easy task tracking
 Includes an animated button for adding new tasks
@@ -14,6 +14,8 @@ Smooth navigation between screens
 Animated Add Button
 Eye-catching animation on the main screen
 Enhances user interaction and experience
+</details>
+
 
 ## 📱Screens Overview
 ➕Main Screen
