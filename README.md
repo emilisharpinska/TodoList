@@ -17,21 +17,21 @@ A simple Todo List pet project built to practice UI design, navigation, and basi
 </details><br>
 
 ## 📱Screens Overview
-➕Main Screen
-Shows the list of all tasks
-Central place to manage your todos
-Includes animated "Add Task" button
-➕ Create Task Screen
-Allows users to create a new task
-Accessible via the animated button on the main screen
+<details>➕Main Screen</details>  
+Shows the list of all tasks  
+Central place to manage your todos  
+Includes animated "Add Task" button  
+<details>➕ Create Task Screen</details>  
+Allows users to create a new task  
+Accessible via the animated button on the main screen  
 
 ## 🛠️ Tech Stack
-Language: Swift 
-UI: Swift UI
+Language: Swift<br> 
+UI: Swift UI<br>
 
 ## 🎯 Purpose
 This project was created as a pet project to:
-Practice building multi-screen applications
-Improve UI/UX skills
-Experiment with animations
-Understand basic state and navigation flow
+Practice building multi-screen applications,
+Improve UI/UX skills,
+Experiment with animations,
+Understand basic state and navigation flow,
