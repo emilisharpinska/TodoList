@@ -18,7 +18,7 @@ A simple Todo List pet project built to practice UI design, navigation, and basi
 
 ## 📱Screens Overview
 ➕Main Screen<br> 
-Shows the list of all tasks<br>   
+Shows the list of all tasks<br>
 Central place to manage your todos<br>
 Includes animated "Add Task" button<br> 
 ➕ Create Task Screen<br> 
