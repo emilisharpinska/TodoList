@@ -7,16 +7,16 @@ A simple Todo List pet project built to practice UI design, navigation, and basi
 
   
 -Displays all created tasks in one place<br>
--Clean and simple layout for easy task tracking
--Includes an animated button for adding new tasks
--Create Task Screen
--Separate screen dedicated to creating new tasks
--User-friendly input flow for adding tasks
--Smooth navigation between screens
--Animated Add Button
--Eye-catching animation on the main screen
--Enhances user interaction and experience
-</details>
+-Clean and simple layout for easy task tracking<br>
+-Includes an animated button for adding new tasks<br>
+-Create Task Screen<br>
+-Separate screen dedicated to creating new tasks<br>
+-User-friendly input flow for adding tasks<br>
+-Smooth navigation between screens<br>
+-Animated Add Button<br>
+-Eye-catching animation on the main screen<br>
+-Enhances user interaction and experience<br>
+</details><br>
 
 
 ## 📱Screens Overview
