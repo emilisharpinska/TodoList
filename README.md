@@ -4,6 +4,8 @@ A simple Todo List pet project built to practice UI design, navigation, and basi
 
 ## 🚀 Features
 <details>Main Screen (Task List)
+
+  
 -Displays all created tasks in one place<br>
 -Clean and simple layout for easy task tracking
 -Includes an animated button for adding new tasks
