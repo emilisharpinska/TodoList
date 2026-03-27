@@ -17,12 +17,12 @@ A simple Todo List pet project built to practice UI design, navigation, and basi
 </details><br>
 
 ## 📱Screens Overview
-<details>➕Main Screen</details>  
-Shows the list of all tasks  
-Central place to manage your todos  
-Includes animated "Add Task" button  
-<details>➕ Create Task Screen</details>  
-Allows users to create a new task  
+➕Main Screen<br> 
+Shows the list of all tasks<br>   
+Central place to manage your todos<br> 
+Includes animated "Add Task" button<br> 
+➕ Create Task Screen<br> 
+Allows users to create a new task<br>   
 Accessible via the animated button on the main screen  
 
 ## 🛠️ Tech Stack
